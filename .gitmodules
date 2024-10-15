@@ -1,0 +1,9 @@
+[submodule "e_project_submodule_repo"]
+	path = e_project_submodule_repo
+	url = https://github.com/tejasdurge55/e_project_submodule_repo.git
+[submodule "m_project_submodule_repo"]
+	path = m_project_submodule_repo
+	url = https://github.com/tejasdurge55/m_project_submodule_repo.git
+[submodule "b_project_submodule_repo"]
+	path = b_project_submodule_repo
+	url = https://github.com/tejasdurge55/b_project_submodule_repo.git
